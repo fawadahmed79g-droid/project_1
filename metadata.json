@@ -1,0 +1,6 @@
+{
+  "name": "Khan Fabrics",
+  "description": "Pakistani unstitched textiles and curated lawn, karandi, jacquard, cambric, and festive 3-piece fabric collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
